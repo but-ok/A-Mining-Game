@@ -15,9 +15,9 @@ var servVars = {
 
 var mysql = require('mysql');
 var mysql_pool = mysql.createPool({
-    host : 'localhost',
-    user : 'root',
-    password : '',
+    host : '184.168.98.214',
+    user : 'biggamer',
+    password : 'Halo23!',
     database : 'agame'
 });
 
